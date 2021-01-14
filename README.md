@@ -5,7 +5,7 @@ A batterry indicator, the base was taken from https://github.com/debuggerx01/bat
 ## Screnshoots
 
 <p float="left">
-<img src="/screnshots/1.jpeg"  width="25%" height="35%" />
-<img src="/screnshots/2.jpeg"  width="25%" height="35%" />
+<img src="./screenshots/1.jpeg"  width="25%" height="35%" />
+<img src="./screenshots/2.jpeg"  width="25%" height="35%" />
 
 </p>
