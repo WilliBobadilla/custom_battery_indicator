@@ -13,3 +13,7 @@ A custom batterry indicator for Andriod and iOS witten in flutter, dart, the bas
 ### Notes
 
 You can control the "level" of the battery with the home_controller.dart file, changing the batteryLevel.value data that is basically a data of type int.
+
+### Update
+
+##### I move the project to the this repo forked from the original source https://github.com/WilliBobadilla/battery_indicator/tree/dev_custom_battery_level with a more organized code.
